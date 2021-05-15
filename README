@@ -32,3 +32,5 @@ See file COPYING for a copy of the GPL v3 license.
 
 The initial development has been accomplished by DENX (https://www.denx.de/)
 and financed by TQS (now TQ-Group; https://www.tq-group.com/).
+
+TODO: fix the issues reported by cppcheck
