@@ -1,0 +1,6 @@
+ * Document how to setup the program
+ * Fix various static analysis complaints
+ * Add systemd units similar to cmtp-responder
+ * Make an initial release
+ * Add packaging for and upload to Debian
+ * Switch more of the code to glib functions
